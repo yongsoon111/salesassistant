@@ -1,0 +1,6 @@
+
+{
+  "name": "Smart CRM Assistant",
+  "description": "A high-productivity response management system featuring an AI-powered script library, resource management, and situational response assistant.",
+  "requestFramePermissions": ["camera"]
+}
